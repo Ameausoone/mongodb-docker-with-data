@@ -4,4 +4,6 @@ Example of docker mongodb image which contains data, the purpose is to use this 
 
 == Usage
 
-  make
+  make build # build image
+
+  make run # launch image
