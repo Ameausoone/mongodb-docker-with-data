@@ -1,0 +1,7 @@
+= MongoDB docker image with data
+
+Example of docker mongodb image which contains data, the purpose is to use this image against integration tests.
+
+== Usage
+
+  make
